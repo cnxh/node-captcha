@@ -7,4 +7,3 @@
   "main": "./captcha.js",
   "engines": { "node": ">= 0.1.98" }
 }
-
